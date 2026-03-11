@@ -1,5 +1,5 @@
 🚀 L3 Computer Science Student | 
-Aspiring AI & Cryptography Specialist 
+Aspiring AI & Cryptography  
 I am currently a final-year student at the University of Limoges, where I focus on the fascinating intersection of Artificial Intelligence and Modern Cryptography. I enjoy diving deep into low-level programming, side-channel analysis, and building intelligent systems from the ground up. 
 +4
 
